@@ -8,4 +8,5 @@ If you wish to test the project from source code, follow the steps:
 3. Run the project, it should be working.
 
 For the **Executable_File**, it can simply double click to launch the application.
+
 Note: Ensure the folder have all the 7 txt files as listed in README.txt. 
